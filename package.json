@@ -1,0 +1,23 @@
+{
+  "name": "mongorepository",
+  "version": "1.0.0",
+  "description": "Javascript Repository Pattern for MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlasterra/MongoRepository.git"
+  },
+  "author": "Javier Lasterra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlasterra/MongoRepository/issues"
+  },
+  "homepage": "https://github.com/jlasterra/MongoRepository#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
