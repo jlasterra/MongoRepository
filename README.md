@@ -1,2 +1,2 @@
 # MongoRepository
-Javascript MongoDB Repository Pattern
+Javascript Repository Pattern for MongoDB
